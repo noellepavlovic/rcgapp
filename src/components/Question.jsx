@@ -66,6 +66,11 @@ class Question extends Component {
           </Grid>
         ))}
         <Grid item xs={12} align="left">
+        If in the last 10 days you have had a Close Contact (non-household member) and you are fully
+        vaccinated and/or under the age of 12 and you have no symptoms self-monitor for symptoms for 
+        10 days from your last exposure with the positive individual. You must self-isolate if you develop symptoms.
+        </Grid><br />
+        <Grid item xs={12} align="left">
           If you answer yes to any of the questions or have a fever{" "}
           <b>DO NOT</b> come to Rose City Gymnastics Club
         </Grid>
